@@ -1,0 +1,55 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 0000003F F6AE:20E6
+D:.
+└─example
+    ├─api
+    │  └─src
+    │      └─main
+    │          └─yang
+    ├─artifacts
+    ├─cli
+    │  └─src
+    │      └─main
+    │          ├─java
+    │          │  └─org
+    │          │      └─opendaylight
+    │          │          └─example
+    │          │              └─cli
+    │          │                  ├─api
+    │          │                  ├─commands
+    │          │                  └─impl
+    │          └─resources
+    │              └─org
+    │                  └─opendaylight
+    │                      └─blueprint
+    ├─features
+    │  └─src
+    │      └─main
+    │          └─features
+    ├─impl
+    │  └─src
+    │      ├─main
+    │      │  ├─java
+    │      │  │  └─org
+    │      │  │      └─opendaylight
+    │      │  │          └─example
+    │      │  │              └─impl
+    │      │  └─resources
+    │      │      └─org
+    │      │          └─opendaylight
+    │      │              └─blueprint
+    │      └─test
+    │          └─java
+    ├─it
+    │  └─src
+    │      └─test
+    │          └─java
+    │              └─org
+    │                  └─opendaylight
+    │                      └─example
+    │                          └─it
+    ├─karaf
+    └─src
+        ├─main
+        │  └─resources
+        └─site
